@@ -40,6 +40,10 @@ navigation_header:
   url: /about/
 - title: Projects
   url: /projects/
+- title: Publications 
+  url: /publications/
+- title: Fields of Interest
+  url: /fields/
 
 # - title: Blog
 #  url: /blog/
