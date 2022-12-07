@@ -2,7 +2,7 @@
 title: Welcome to my website
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Viktor Domazetoski
 ---
 
-There isn't much going on here yet, but watch this space
+Master’s student with an interest in research of methods from Machine Learning, Statistics and Complex Networks and their application in Ecology, Conservation, Earth Observation and Environmental protection.
