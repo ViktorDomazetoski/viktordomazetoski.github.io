@@ -15,7 +15,7 @@ sass:
   style: :nested
 
 # Add bibliography
-plugins['jekyll/scholar']
+# plugins['jekyll/scholar']
 
 # scholar:
 #  style: assets/bib/_ieee-with-url.csl
