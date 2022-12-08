@@ -4,7 +4,7 @@ title: About Me
 
 I am Master’s student with an interest in research of methods from Machine Learning, Statistics and Complex Networks and their application in Ecology, Conservation, Earth Observation and Environmental protection.
 
-## Education
+### Education
 **MSc - Ecosystem Analysis and Modeling**  (2021 -- )   
 *Faculty of Forest Sciences and Forest Ecology - The University of Göttingen, Göttingen, Germany*  
 - Expected GPA 1.3 (Min. 4.0, Max. 1.0)
@@ -21,4 +21,4 @@ I am Master’s student with an interest in research of methods from Machine Lea
 - GPA 9.88 (Min. 6.00, Max. 10.00)
 - Bachelor’s Thesis - Alternative processing in tractography of neurodegenerative diseases
 
-## Experience
+### Experience
