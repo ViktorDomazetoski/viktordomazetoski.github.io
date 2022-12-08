@@ -45,7 +45,7 @@ I am Master’s student with an interest in research of methods from Machine Lea
 -  Conducted a landscape analysis to identify gaps and propose solutions regarding the problem. 
 
 **Junior Researcher** (October 2017 -- September 2021)    
-*Macedonian Academy of Sciences and Arts, Skopje, Macedonia*   
+*Research Center for Computer Science and Information Technologies, Macedonian Academy of Sciences and Arts, Skopje, Macedonia*   
 
 Working under the supervision of Dr. Ljupco Kocarev. I have worked on or am currently working on the following projects:
 - Analysis of species interactions using network science and machine learning tools with a focus on species' ecological roles.
