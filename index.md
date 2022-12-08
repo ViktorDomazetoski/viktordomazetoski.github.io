@@ -5,4 +5,4 @@ feature_text: |
   ## Viktor Domazetoski
 ---
 
-Master’s student with an interest in research of methods from Machine Learning, Statistics and Complex Networks and their application in Ecology, Conservation, Earth Observation and Environmental protection.
+I am a Master’s student with an interest in research of methods from Machine Learning, Statistics and Complex Networks and their application in Ecology, Conservation, Earth Observation and Environmental protection.
