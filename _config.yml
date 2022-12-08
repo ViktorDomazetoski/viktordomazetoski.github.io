@@ -39,14 +39,13 @@ navigation_header:
 - title: About
   url: /about/
 - title: Projects
-  url: /blog/
+  url: /projects/
 - title: Publications 
   url: /publications/
 - title: Fields of Interest
   url: /fields/
-
-# - title: Blog
-#  url: /blog/
+- title: Blog
+  url: /blog/
 
 # Footer nav
 navigation_footer:
